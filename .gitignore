@@ -1,0 +1,22 @@
+# Unity
+WhoMe/[Ll]ibrary/
+WhoMe/[Tt]emp/
+WhoMe/[Oo]bj/
+WhoMe/[Ll]ogs/
+WhoMe/[Uu]ser[Ss]ettings/
+WhoMe/[Bb]uild/
+WhoMe/[Bb]uilds/
+WhoMe/*.csproj
+WhoMe/*.sln
+WhoMe/*.slnx
+WhoMe/.vs/
+WhoMe/.vscode/
+WhoMe/.idea/
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+crashlytics-build.properties
+.DS_Store
+Thumbs.db
+*.zip
+*.mp4
