@@ -20,3 +20,6 @@ crashlytics-build.properties
 Thumbs.db
 *.zip
 *.mp4
+
+# logs
+*.log
