@@ -4,6 +4,11 @@
 
 Made for **GitHub Game Off 2026**. Theme: **SHIFT**, as in shifting the blame.
 
+[![Who, Me? trailer: click to watch the full video](docs/trailer.gif)](https://github.com/Agneay-Community-Hub/Who-me--You-Did-it/releases/download/v1.0.0/WhoMe-Trailer.mp4)
+
+▶ **[Watch the full trailer (77 s, 1080p)](https://github.com/Agneay-Community-Hub/Who-me--You-Did-it/releases/download/v1.0.0/WhoMe-Trailer.mp4)**  ·  
+💾 **[Download for Windows](https://github.com/Agneay-Community-Hub/Who-me--You-Did-it/releases/latest)** (unzip and run `WhoMe.exe`)
+
 You're the culprit. Inspector Prudence Gloom is on the case. Accuse a suspect, then watch the
 Inspector bring out new evidence after every accusation. If your scapegoat contradicts **any**
 evidence on the board, they're cleared and her suspicion of you goes up. Keep **shifting the blame**
